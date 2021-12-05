@@ -1,8 +1,20 @@
 Hello Developers
 
-this is v1.0 of our schedule static html website
-find it here jitdevs.ml OR jitdevs.netlify.com
+#This is v1.0 of our schedule static html website
+#Find it here jitdevs.ml OR jitdevs.netlify.com
 
-we Really Welcome anyine who Contributes for this project
+#We Really Welcome anyone Who Contributes for this project
 
 #EveryOneCanContribute
+
+ &copy;Developers Team
+
+ ############################################################
+ 
+ &copy;Natnael
+ &copy;Natnael
+ &copy;Natnael
+ &copy;Robera
+ &copy;Segni
+ &copy;Semer
+ 
